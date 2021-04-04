@@ -70,7 +70,7 @@ int main() {
 		divide(num1, num2);
 	}
 	else {
-		std::cout << "You have not entered a valid operation!";
+		cout << "You have not entered a valid operation!";
 		main();
 	}
 }
